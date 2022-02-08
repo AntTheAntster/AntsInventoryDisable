@@ -1,0 +1,14 @@
+# AntsInventoryDisable
+# Thank you for downloading!
+# If you have any issues please join my discord and create a ticket.
+# Discord: https://discord.link/AntsPlugins
+# Please leave a rating on SpigotMC as it really helps!
+# Please do not leave error reports in the spigot comments, please use discord instead!
+
+# In-game, please use the command '/aib <Enable/Disable>' to Enable/Disable the plugin
+
+#Bypass Permission:
+  - aid.bypass
+
+# Whether the plugin is enabled/disabled upon server restart
+Default: Enabled

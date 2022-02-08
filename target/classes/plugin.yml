@@ -1,0 +1,6 @@
+main: uk.co.anttheantster.antsinventorydisable.AntsInventoryDisable
+name: AntsInventoryDisable
+version: 0.1
+api-version: 1.18
+commands:
+  aid:
